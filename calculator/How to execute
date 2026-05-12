@@ -1,0 +1,8 @@
+Make Calculator.idl file and CaalculatorImpl.java
+1)In cmd put -> 
+  idlj -fall Calculator.idl
+2)Compile all java files -> 
+  javac *.java CalculatorApp/*.java
+3)Open three cmd -> tnameserv -ORBInitialPort 1050
+                  java Server -ORBInitialPort 1050 -ORBInitialHost localhost
+                  java Client -ORBInitialPort 1050 -ORBInitialHost localhost
