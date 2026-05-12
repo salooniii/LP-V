@@ -1,0 +1,8 @@
+1)Compile 
+  javac BullyProcess.java
+2)Run process in 5 Terminal
+  java BullyProcess 1
+  java BullyProcess 2
+  java BullyProcess 3
+  java BullyProcess 4
+  java BullyProcess 5
