@@ -1,0 +1,12 @@
+1)Compile
+  javac Server.java
+  javac Client.java
+
+2) Run server 
+  java Server
+
+3) New terminal Run Client
+  java Client
+
+
+also check on browser -> http://localhost:8000/add?a=20&b=30
