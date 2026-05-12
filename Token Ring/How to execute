@@ -1,0 +1,6 @@
+1)Compile
+  javac Process.java
+2)Run Processes Open 3 terminals ->
+  java Process 1 5001 5002
+  java Process 2 5002 5003
+  java Process 3 5003 5001
