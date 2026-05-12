@@ -3,5 +3,5 @@
   javac Client.java
 2)Run Server
   java Server
-3)Run Client
+3)Run Client in three different terminals
   java Client
