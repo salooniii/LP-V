@@ -1,0 +1,9 @@
+STEP 1 — Compile Programs
+         javac *.java
+STEP 2 — Start RMI Registry
+         rmiregistry
+STEP 3 — Run Server
+         java AddServer
+STEP 4 — Run Client
+        java AddClient localhost 10 20
+   or   java AddClient 127.0.0.1 5 40
