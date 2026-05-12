@@ -1,0 +1,7 @@
+1)Compile java file
+  javac Server.java
+  javac Client.java
+2)Run Server
+  java Server
+3)Run Client
+  java Client
