@@ -1,0 +1,6 @@
+1)Compile
+  javac RingProcess.java
+2)Run Processes
+  java RingProcess 1 6001 6002
+  java RingProcess 2 6002 6003
+  java RingProcess 3 6003 6001
