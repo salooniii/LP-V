@@ -1,0 +1,8 @@
+STEP 1 — Compile Programs
+         javac *.java
+STEP 2 — Start RMI Registry
+         rmiregistry
+STEP 3 — Run Server
+        java Server
+STEP 4 — Run Client
+        java Client
